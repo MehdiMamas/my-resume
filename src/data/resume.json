@@ -1,0 +1,144 @@
+{
+  "fullName": "Mehdi Mamas",
+  "summary": {
+    "title": "Software Engineer | AI & Backend Systems",
+    "text": "Full-stack Software Engineer experienced in building scalable web and AI-powered systems. Skilled in Node.js, React, and AWS, with a track record of reducing costs, improving performance, and shipping production features used by thousands. Strong background in automation, backend architecture, and real-world product development."
+  },
+  "contact": {
+    "title": "Contact",
+    "list": [
+      {
+        "text": "mehdimamasxd@gmail.com",
+        "url": "mailto:mehdimamasxd@gmail.com",
+        "icon": "envelope"
+      },
+      {
+        "text": "(609) 977-3339",
+        "url": "tel:+16099773339",
+        "icon": "phone"
+      },
+      {
+        "text": "Rock Island, IL",
+        "icon": "map-marker"
+      },
+      {
+        "text": "linkedin.com/in/mehdidev/",
+        "url": "https://linkedin.com/in/mehdidev/",
+        "icon": "linkedin"
+      },
+      {
+        "text": "github.com/MehdiMamas",
+        "url": "https://github.com/MehdiMamas",
+        "icon": "github"
+      }
+    ]
+  },
+  "keySkills": {
+    "title": "Technical Skills",
+    "list": [
+      { "text": "AI & Data: LLM APIs, Automation, Data Analytics, MCP" },
+      { "text": "Languages: Python, Java, SQL, JavaScript/TypeScript" },
+      { "text": "Frontend: React, Vue, Browser Extensions, HTML/CSS" },
+      { "text": "Backend: Node.js, REST APIs, OAuth2, JWT, Microservices" },
+      { "text": "Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), CI/CD, Docker" }
+    ]
+  },
+  "additionalSkills": {
+    "title": "Soft Skills",
+    "list": [
+      { "text": "Communication" },
+      { "text": "Team Management" },
+      { "text": "Leadership" },
+      { "text": "Agile/Scrum" },
+      { "text": "Technical Communication" }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "list": [
+      { "text": "Arabic — Native" },
+      { "text": "English — Fluent" },
+      { "text": "French — Intermediate" }
+    ]
+  },
+  "interests": {
+    "title": "Interests",
+    "list": []
+  },
+  "certificates": {
+    "title": "Certificates",
+    "list": []
+  },
+  "publications": {
+    "title": "Publications",
+    "list": []
+  },
+  "projects": {
+    "title": "Selected Projects",
+    "list": [
+      {
+        "name": "Medication Reminder System",
+        "techList": ["Node.js", "Twilio", "Deepgram", "ElevenLabs"],
+        "description": "Built a real-time voice-automation system enabling healthcare providers to trigger AI-powered outbound calls for daily medication-adherence confirmation.\n• Designed a RESTful API to initiate dynamic voice calls using patient-specific workflows.\n• Engineered a real-time Text-to-Speech and Speech-to-Text pipeline integrating Twilio Voice, Deepgram (STT), and ElevenLabs (TTS).\n• Implemented conversational call-flow logic with response parsing and status handling.\n• Developed voicemail detection and automated SMS fallback for unanswered calls.\n• Architected structured logging and call metadata storage for call status, recordings, and patient confirmations.\n• Configured secure webhook handling and local tunneling with Ngrok for real-time call event processing.",
+        "url": "https://github.com/MehdiMamas/DTxPlus-assessment"
+      }
+    ]
+  },
+  "workExperience": {
+    "title": "Work Experience",
+    "list": [
+      {
+        "company": "Cognize Tech Solutions LLC",
+        "location": "",
+        "jobTitle": "Software Developer",
+        "date": { "start": "2025-04", "end": "2026-05" },
+        "description": "• Developed and maintained full-stack web applications and backend services using Node.js, React, and modern JavaScript/TypeScript.\n• Designed and implemented scalable REST APIs, authentication systems (OAuth2/JWT), and secure backend architectures.\n• Integrated third-party services, AI-powered features, and AWS cloud infrastructure into production systems.\n• Automated workflows and backend processes to improve system efficiency and reduce manual operations.\n• Collaborated with cross-functional teams to deliver production-ready features and enhance application performance and reliability."
+      },
+      {
+        "company": "Readyy.ai",
+        "location": "Rock Island, IL",
+        "jobTitle": "Software Engineer",
+        "date": { "start": "2025-08", "end": "2026-01" },
+        "description": "• Reduced cost by 70% monthly and automated certain workflows.\n• Implemented product features utilizing OAuth and APIs."
+      },
+      {
+        "company": "Scribbl",
+        "location": "United States",
+        "jobTitle": "Software Engineer",
+        "date": { "start": "2025-05", "end": "2025-08" },
+        "description": "• Maintained and improved the production web application.\n• Integrated Scribbl with two new meeting platforms: Microsoft Teams and Zoom.\n• Conducted weekly Scrum meetings and followed Agile methodologies.\n• Integrated a new GPT model into Scribbl’s AI chat feature.\n• Implemented a global chat feature allowing users to interact with AI about all of their meetings."
+      },
+      {
+        "company": "Fluencer Fruit",
+        "location": "",
+        "jobTitle": "Full Stack Developer",
+        "date": { "start": "2023-07", "end": "2025-02" },
+        "description": "• Developed and helped launch FluencerFruit.\n• Designed user-friendly interfaces and implemented robust backend services for product searches and recommendations.\n• Integrated advanced data analytics for actionable insights and performance tracking.\n• Ensured scalability and performance for a growing user base.\n• Conducted testing and debugging and implemented security best practices to protect user data."
+      },
+      {
+        "company": "Classpass",
+        "location": "",
+        "jobTitle": "Full Stack Developer",
+        "date": { "start": "2024-04", "end": "2024-12" },
+        "description": "• Utilized Chrome extension APIs, including storage and tabs, to improve user experience.\n• Created RESTful APIs for secure backend communication and implemented AI models for automated chatbot responses.\n• Developed a scalable Node.js backend for data processing and user authentication using OAuth 2.0 or JWT.\n• Enhanced extension performance for efficient operation with large datasets."
+      },
+      {
+        "company": "ExtPower",
+        "location": "",
+        "jobTitle": "Software Engineer",
+        "date": { "start": "2019-12", "end": "2023-08" },
+        "description": "• Managed web development projects from initial concept through final implementation.\n• Built front-end and back-end applications using React, Angular, Node.js, and Python.\n• Troubleshot complex development issues to improve system performance and reliability.\n• Worked with clients, designers, and developers to translate requirements into functional applications."
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "list": [
+      {
+        "institution": "Augustana College",
+        "description": "BA in Computer Science, Rock Island, IL.\nRelevant coursework: Coding in Python, Coding in Java, Data Structures, Software Development, Principles of Computer Systems, Calculus, Discrete Mathematics, Statistics, Algorithms & Computational Theory, Principles of Artificial Intelligence, Database Management, Data Engineering.",
+        "date": { "start": "", "end": "2027-05" }
+      }
+    ]
+  }
+}
