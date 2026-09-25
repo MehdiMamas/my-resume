@@ -43,7 +43,7 @@ Also fluent in English, native in Arabic, and intermediate in French.
 
 ## Contact
 
-- [mehdimamasxd@gmail.com](mailto:mehdimamasxd@gmail.com)
+- [me@mehdimamas.dev](mailto:me@mehdimamas.dev)
 - (609) 977-3339
 - Rock Island, IL
 - [LinkedIn](https://linkedin.com/in/mehdidev/)
