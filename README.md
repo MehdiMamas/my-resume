@@ -24,4 +24,4 @@ The bundles are generated, so do not edit them by hand. A change to the content 
 
 ## Tech
 
-React and Vite (built output), hosted on GitHub Pages.
+React (built output), hosted on GitHub Pages.
